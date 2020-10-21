@@ -3,7 +3,7 @@ This is the github repo for the Boulder Apple Tree Project senior capstone team 
 Team Members:
 Alex Haynie
 Qihang Mao
-Shanli Din
+Shanli Ding
 Tanner Ball
 Yang Li
 Zach Morrissey
